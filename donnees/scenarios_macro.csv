@@ -1,0 +1,4 @@
+scenario,ponderation_pct,multiplicateur_pd,ajustement_lgd_pts,pib_variation_pct,chomage_pct
+Central,50,1.0,0.0,1.1,7.6
+Adverse,30,1.8,7.0,-1.8,9.4
+Favorable,20,0.75,-3.0,2.3,6.9

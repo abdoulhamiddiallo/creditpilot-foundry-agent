@@ -1,0 +1,81 @@
+id_contrat,emprunteur,secteur,notation_origine,notation_actuelle,jours_retard,encours_tire_eur,engagement_non_tire_eur,surete,taux_effectif_pct,maturite_restante_ans
+BLE-1001,Foncière des Trois Frontières,Immobilier commercial,N3,N4,0,8400000.00,600000.00,Hypothèque,3.85,6
+BLE-1002,Transports Mosellans Saint-Nicolas,Transport et logistique,N3,N6,0,5200000.00,0.00,Nantissement,4.60,5
+BLE-1003,Société Saint-Dié,Transport et logistique,N4,N5,0,1510000.00,530000.00,Nantissement,4.26,5
+BLE-1004,Holding Thionville,Commerce,N3,N3,0,1780000.00,620000.00,Nantissement,4.27,4
+BLE-1005,Maison Verdun,Industrie,N7,N7,0,3250000.00,0.00,Aucune,5.21,2
+BLE-1006,Fabrique Contrexéville,Transport et logistique,N3,N3,0,3240000.00,650000.00,Hypothèque,4.57,1
+BLE-1007,Fabrique Longwy,Services aux entreprises,N5,N4,0,1130000.00,230000.00,Aucune,3.60,5
+BLE-1008,Compagnie Pont-à-Mousson,Transport et logistique,N7,N7,0,1020000.00,0.00,Aucune,5.54,7
+BLE-1009,Compagnie Contrexéville,Immobilier commercial,N4,N4,12,3800000.00,760000.00,Hypothèque,3.37,5
+BLE-1010,Fabrique Sarreguemines,Transport et logistique,N4,N4,0,6500000.00,0.00,Aucune,3.24,6
+BLE-1011,Maison Remiremont,Industrie,N4,N5,0,6500000.00,2280000.00,Nantissement,5.18,5
+BLE-1012,Société Sarreguemines,Immobilier commercial,N4,N5,35,5980000.00,600000.00,Hypothèque,4.61,3
+BLE-1013,Fabrique Épinal,Commerce,N2,N2,0,1450000.00,0.00,Hypothèque,2.51,5
+BLE-1014,Groupe Lunéville,Industrie,N2,N2,0,1800000.00,360000.00,Caution,2.48,3
+BLE-1015,Société Sarrebourg,Agroalimentaire,N5,N7,0,1150000.00,400000.00,Hypothèque,5.79,6
+BLE-1016,Atelier Nancy,Santé,N4,N5,0,6500000.00,0.00,Caution,3.37,3
+BLE-1017,Holding Metz,Industrie,N6,N6,0,1490000.00,300000.00,Hypothèque,5.85,3
+BLE-1018,Groupe Saint-Dié,Industrie,N6,N6,0,490000.00,100000.00,Caution,3.51,3
+BLE-1019,Groupe Sarrebourg,Commerce,N4,N4,0,4120000.00,0.00,Aucune,3.08,6
+BLE-1020,Atelier Metz,BTP,N5,N5,12,1070000.00,210000.00,Caution,5.33,7
+BLE-1021,Maison Thionville,Industrie,N7,N7,0,5300000.00,0.00,Caution,6.05,6
+BLE-1022,Holding Pont-à-Mousson,BTP,N3,N4,0,4900000.00,0.00,Aucune,3.09,2
+BLE-1023,Maison Saint-Dié,BTP,N2,N2,0,4000000.00,0.00,Aucune,2.97,6
+BLE-1024,Fabrique Nancy,Immobilier commercial,N5,N5,35,3030000.00,1060000.00,Hypothèque,4.86,7
+BLE-1025,Atelier Remiremont,Immobilier commercial,N4,N3,0,2830000.00,280000.00,Hypothèque,2.61,2
+BLE-1026,Maison Contrexéville,Immobilier commercial,N5,N5,0,3950000.00,400000.00,Hypothèque,4.58,5
+BLE-1027,Holding Verdun,Commerce,N4,N5,0,4090000.00,820000.00,Caution,5.26,3
+BLE-1028,Holding Saint-Dié,BTP,N5,N5,0,5500000.00,1100000.00,Hypothèque,5.65,5
+BLE-1029,Holding Contrexéville,BTP,N5,N6,0,2190000.00,770000.00,Hypothèque,4.21,5
+BLE-1030,Établissements Hayange,Agroalimentaire,N6,N7,0,2500000.00,0.00,Hypothèque,5.44,4
+BLE-1031,Établissements Briey,Industrie,N1,N4,0,2190000.00,440000.00,Nantissement,2.72,7
+BLE-1032,Établissements Pont-à-Mousson,BTP,N4,N4,0,1450000.00,0.00,Aucune,4.44,5
+BLE-1033,Établissements Commercy,Immobilier commercial,N7,N8,0,5450000.00,0.00,Hypothèque,6.17,3
+BLE-1034,Groupe Nancy,Immobilier commercial,N5,N6,0,5490000.00,550000.00,Hypothèque,4.13,6
+BLE-1035,Établissements Saint-Dié,Immobilier commercial,N3,N3,0,2490000.00,0.00,Hypothèque,2.76,4
+BLE-1036,Établissements Sarreguemines,Hôtellerie-restauration,N2,N3,0,4630000.00,0.00,Nantissement,4.79,4
+BLE-1037,Établissements Verdun,Immobilier commercial,N2,D,95,2910000.00,1020000.00,Hypothèque,5.44,1
+BLE-1038,Fabrique Verdun,Agroalimentaire,N6,N6,0,960000.00,0.00,Hypothèque,4.87,3
+BLE-1039,Holding Remiremont,Agroalimentaire,N5,N5,0,2300000.00,0.00,Hypothèque,5.17,6
+BLE-1040,Groupe Hayange,Santé,N3,N3,0,3080000.00,1080000.00,Aucune,4.73,4
+BLE-1041,Atelier Briey,Transport et logistique,N5,N5,0,2570000.00,510000.00,Hypothèque,4.36,3
+BLE-1042,Holding Sarrebourg,Immobilier commercial,N4,N4,35,1620000.00,320000.00,Hypothèque,3.99,3
+BLE-1043,Atelier Forbach,Transport et logistique,N5,N5,35,2180000.00,220000.00,Hypothèque,5.12,6
+BLE-1044,Groupe Forbach,Agroalimentaire,N4,N4,0,4190000.00,840000.00,Caution,4.75,2
+BLE-1045,Holding Forbach,Hôtellerie-restauration,N5,N5,35,1570000.00,310000.00,Nantissement,4.70,7
+BLE-1046,Holding Hayange,Immobilier commercial,N1,N4,0,4110000.00,0.00,Hypothèque,4.19,5
+BLE-1047,Établissements Épinal,Immobilier commercial,N4,N4,35,6500000.00,2280000.00,Hypothèque,5.39,2
+BLE-1048,Maison Nancy,Industrie,N2,N2,0,6500000.00,2280000.00,Hypothèque,2.26,6
+BLE-1049,Groupe Thionville,Transport et logistique,N5,N6,0,1110000.00,220000.00,Nantissement,4.87,2
+BLE-1050,Groupe Toul,Commerce,N4,N6,0,2500000.00,250000.00,Nantissement,5.04,1
+BLE-1051,Atelier Lunéville,Immobilier commercial,N4,N4,12,6500000.00,650000.00,Hypothèque,5.28,2
+BLE-1052,Établissements Thionville,BTP,N6,N6,0,4160000.00,0.00,Nantissement,3.45,5
+BLE-1053,Atelier Sarreguemines,Agroalimentaire,N3,N5,0,5850000.00,580000.00,Nantissement,3.97,4
+BLE-1054,Fabrique Remiremont,Transport et logistique,N4,N4,0,3800000.00,380000.00,Nantissement,4.69,3
+BLE-1055,Maison Commercy,Industrie,N4,N5,0,6500000.00,650000.00,Hypothèque,3.02,6
+BLE-1056,Groupe Bar-le-Duc,Industrie,N5,D,95,3270000.00,1140000.00,Hypothèque,4.81,3
+BLE-1057,Compagnie Commercy,BTP,N3,N4,0,2840000.00,990000.00,Hypothèque,4.43,3
+BLE-1058,Compagnie Bar-le-Duc,BTP,N6,N7,0,2700000.00,940000.00,Aucune,6.02,7
+BLE-1059,Atelier Toul,Santé,N4,N6,0,1110000.00,220000.00,Caution,5.30,6
+BLE-1060,Société Toul,Hôtellerie-restauration,N6,N7,0,1250000.00,440000.00,Nantissement,5.92,6
+BLE-1061,Compagnie Forbach,BTP,N7,N8,0,2120000.00,210000.00,Caution,4.29,3
+BLE-1062,Compagnie Thionville,Industrie,N2,N2,0,440000.00,150000.00,Aucune,4.43,4
+BLE-1063,Maison Metz,BTP,N6,N7,0,2000000.00,0.00,Hypothèque,5.86,3
+BLE-1064,Société Bar-le-Duc,Transport et logistique,N3,N4,0,3020000.00,600000.00,Hypothèque,3.56,6
+BLE-1065,Fabrique Briey,Immobilier commercial,N3,N3,0,6500000.00,650000.00,Hypothèque,4.59,4
+BLE-1066,Société Longwy,Transport et logistique,N6,N6,0,2810000.00,280000.00,Hypothèque,5.54,5
+BLE-1067,Groupe Commercy,BTP,N4,N5,0,2220000.00,440000.00,Aucune,3.81,4
+BLE-1068,Compagnie Metz,Commerce,N3,N2,0,6500000.00,2280000.00,Nantissement,3.34,2
+BLE-1069,Atelier Épinal,Commerce,N3,N4,0,6500000.00,0.00,Nantissement,3.90,2
+BLE-1070,Société Remiremont,Immobilier commercial,N3,N4,0,6500000.00,2280000.00,Hypothèque,4.92,7
+BLE-1071,Établissements Vittel,BTP,N3,N3,0,2900000.00,1010000.00,Hypothèque,4.61,6
+BLE-1072,Atelier Hayange,BTP,N3,N4,0,4650000.00,930000.00,Caution,4.61,3
+BLE-1073,Établissements Forbach,Commerce,N4,N4,0,1150000.00,120000.00,Hypothèque,4.44,2
+BLE-1074,Compagnie Nancy,Transport et logistique,N4,N4,0,2860000.00,1000000.00,Hypothèque,4.36,4
+BLE-1075,Société Contrexéville,Commerce,N4,N6,0,1690000.00,590000.00,Nantissement,5.72,2
+BLE-1076,Compagnie Saint-Dié,Transport et logistique,N4,N4,12,1970000.00,690000.00,Caution,4.89,2
+BLE-1077,Société Verdun,Hôtellerie-restauration,N1,N1,0,2550000.00,510000.00,Nantissement,4.36,6
+BLE-1078,Société Metz,Commerce,N2,N3,0,1190000.00,0.00,Caution,3.78,2
+BLE-1079,Atelier Pont-à-Mousson,Commerce,N5,N5,0,1280000.00,130000.00,Hypothèque,4.52,7
+BLE-1080,Holding Épinal,Agroalimentaire,N2,N3,0,5070000.00,1770000.00,Nantissement,2.60,6
